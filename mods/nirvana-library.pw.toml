@@ -1,0 +1,13 @@
+name = "Nirvana Library"
+filename = "Nirvana Lib-neoforge-1.21.1-2.0.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6gKEW2ql/versions/nUPW7ei6/Nirvana%20Lib-neoforge-1.21.1-2.0.17.jar"
+hash-format = "sha512"
+hash = "266fa9452bcf013e7ded9e5722385bab96e3116d78994285229ce6e7d42a368de3b70184db5f47d7cfc121865f8ed7c5fb7a550147667432b3329f430141676b"
+
+[update]
+[update.modrinth]
+mod-id = "6gKEW2ql"
+version = "nUPW7ei6"

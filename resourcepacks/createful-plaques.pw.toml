@@ -1,0 +1,13 @@
+name = "Createful Plaques"
+filename = "Createful-plaques-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uefkcaqY/versions/pjSnDrq0/Createful-plaques-1.0.zip"
+hash-format = "sha512"
+hash = "f8520c2848040ab98c9d454101e10e1552cbcc629f1278c9ac5ff2aedbe6f8c3ca69634f3801cc0bdda4447c7857e9866f38ecc85c0c951cb82ddf7fce7d95a3"
+
+[update]
+[update.modrinth]
+mod-id = "uefkcaqY"
+version = "pjSnDrq0"

@@ -1,0 +1,13 @@
+name = "Create: Dimension, Steamworks Realm"
+filename = "create_dimension-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yHADpDIL/versions/2LzO4V0s/create_dimension-1.0.4.jar"
+hash-format = "sha512"
+hash = "cb52bb48738b6e5ec918b7c28bfc27c3c6f74d899dd82e95962f3ba825efdafb7e04aae0882964052368502333aa56e5de5c6da1cb181d063ae4b2769fdc2d5d"
+
+[update]
+[update.modrinth]
+mod-id = "yHADpDIL"
+version = "2LzO4V0s"

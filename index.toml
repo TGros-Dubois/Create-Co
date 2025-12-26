@@ -1854,11 +1854,6 @@ hash = "56925ff949f3e319c94faa105380f65838cac5a0821a3e53a06d3d6a6d2eb264"
 metafile = true
 
 [[files]]
-file = "mods/cataclysm-x-bettercombat-compat.pw.toml"
-hash = "d6dbc17fb48e8333204b5915ca0f8ec32fdc7d698a945fa4b68d399e27c5b16f"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "453788d28b5aa35bf4d9087a010f98e2ca690198c34b6fbb90ade52121b8e581"
 metafile = true

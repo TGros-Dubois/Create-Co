@@ -1814,11 +1814,6 @@ hash = "058287f345d5e7719048de55046a1845d28f1de387f569c72d8067714e88e0af"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "34dcfcb291672421a47d4558f430be0fd82dae968426053367451f0a14d475b2"
-metafile = true
-
-[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a3091dc682eade6d9d6e81588098fc433214273d4ff8efdb2b917bdaa359ac0d"
 metafile = true

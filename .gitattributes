@@ -1,0 +1,2 @@
+# packwiz: keep file bytes identical across OSes (no EOL normalization)
+* -text

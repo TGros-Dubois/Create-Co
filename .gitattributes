@@ -1,16 +1,2 @@
-# packwiz: keep file bytes identical across OSes (no EOL normalization)
-* text=auto eol=lf
-
-# Common binaries in modpacks (never apply text/EOL conversion)
-*.jar binary
-*.zip binary
-*.7z  binary
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.webp binary
-*.ogg binary
-*.mp3 binary
-*.wav binary
-*.ttf binary
-*.otf binary
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text
